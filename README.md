@@ -1,4 +1,12 @@
-# Домашняя работа![image](https://user-images.githubusercontent.com/113675674/191714701-d37a1021-ded6-459a-acd1-b0cdfefa3c58.png)
-# Разметка текста
+# Домашняя работа
+# 1. Разметка текста
 # https://htmlacademy.ru/courses/301/run/1
+
+# 2. Структура HTML документа
+# https://htmlacademy.ru/courses/299/run/1
+
+# 3. Ссылки и изображения
+# https://htmlacademy.ru/courses/305/run/1
+
+
 
