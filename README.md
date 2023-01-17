@@ -1,3 +1,4 @@
+# lecture_3    
 ![image](https://user-images.githubusercontent.com/113675674/192522760-aa47aecb-7091-43ef-b9a9-dfd72c98231f.png)
 
 # Домашняя работа
